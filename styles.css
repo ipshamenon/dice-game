@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    background-color: #F9F2ED; 
+    font-family: 'Righteous', cursive;
+    
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    color: #3AB0FF;
+    font-size: 90px;
+    text-shadow: 2px 0 #08568a;
+    margin-top: 3%;
+}
+
+.container{
+   text-align: center;
+   
+}
+
+.dice{
+    color: #FFB562;
+    font-size: 45px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 90px;
+}
+
+
+footer{
+    text-align: center;
+    font-size: 20px ;
+    color: #3AB0FF;
+}
