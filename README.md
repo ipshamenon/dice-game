@@ -4,7 +4,7 @@
 
 
 
-Play this simple 2 player game you can use to settle your next family argument or dispute!
+Play this simple 2 player game to settle your next family/friend argument or dispute!
 
 
 
